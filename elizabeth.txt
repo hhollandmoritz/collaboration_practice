@@ -1,2 +1,4 @@
 lemons
+oranges
+grapefruit
 pears
